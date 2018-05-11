@@ -1,0 +1,1 @@
+# Cross-site-Request-Forgery-protection-via-Synchronizer-Token-Patterns-
